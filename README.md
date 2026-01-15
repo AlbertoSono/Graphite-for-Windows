@@ -1,4 +1,4 @@
-(https://github.com/AlbertoSono/Graphite-for-Windows/blob/main/logo.svg)
+[](https://github.com/AlbertoSono/Graphite-for-Windows/blob/main/logo.svg)
 
 Windows Version of https://github.com/GraphiteEditor/Graphite
 
