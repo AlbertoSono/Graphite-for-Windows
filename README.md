@@ -1,6 +1,6 @@
 ![](https://github.com/AlbertoSono/Graphite-for-Windows/blob/main/logo.svg)
 
-Windows Version of https://github.com/GraphiteEditor/Graphite
+Windows Version of Graphite
 
 Download: https://github.com/AlbertoSono/Graphite-for-Windows/releases/tag/Graphite-1.0.0-RC2-Windows
 
